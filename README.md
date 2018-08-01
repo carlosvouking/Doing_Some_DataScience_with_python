@@ -1,7 +1,7 @@
 # Doing_Some_DataScience_with_python
-Data science turns out to be one of the hottest fields nowadays. In this project we will be producing data oriented evidences that can be significant for companies by exploring an end-to-end data science project cycle using python. 
+Data science turns out to be one of the hottest fields nowadays. With this project we will showcase some data oriented approaches( that can be significant to small sized companies) by exploring an end-to-end data science project cycle using python. 
 
-Outline:
+BAsic outline:
    - Some data extraction..
    - Data processing and visualization
    - Build, evaluate, and fine-tuning a predictive model.
